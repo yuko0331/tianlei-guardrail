@@ -1,0 +1,14 @@
+{
+  "name": "tianlei-market",
+  "description": "天磊安全围栏插件市场",
+  "owner": { "name": "天磊" },
+  "plugins": [
+    {
+      "name": "tianlei-guardrail",
+      "displayName": "天磊安全围栏",
+      "source": "./tianlei-guardrail",
+      "version": "0.1.0",
+      "description": "天磊安全围栏：检测用户输入、工具调用、工具返回和最终回答"
+    }
+  ]
+}

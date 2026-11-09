@@ -1,0 +1,9 @@
+{
+  "name": "tianlei-guardrail",
+  "displayName": "天磊安全围栏",
+  "version": "0.1.0",
+  "description": "天磊安全围栏：检测用户输入、工具调用、工具返回和最终回答",
+  "author": { "name": "天磊" },
+  "hooks": "./hooks/hooks.json",
+  "defaultEnabled": true
+}
